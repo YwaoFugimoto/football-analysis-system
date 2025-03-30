@@ -1,4 +1,3 @@
-# Inicial ream me
+# AI project
 
-
-***Test***
+AI/ML football analysis system with YOLO, OpenLV and python.
